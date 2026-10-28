@@ -94,3 +94,5 @@ O projeto conta com automação via GitHub Actions configurada em `.github/workf
 2. Configura o ambiente Python 3.12 com cache de pacotes;
 3. Instala todas as dependências do `requirements.txt`;
 4. Roda a suíte completa de testes automatizados via `pytest`.
+
+   
