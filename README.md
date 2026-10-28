@@ -95,3 +95,30 @@ barbearia-comunitaria-mvp/
 
 ## 📄 Licença
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+* **Segurança:** Autenticação com hash `bcrypt` ($2b$12$) via `passlib` e tokens JWT
+* **Testes e CI:** `pytest`, `pytest-cov` e GitHub Actions
+
+---
+
+## 📂 Estrutura do Repositório
+
+```bash
+barbearia-comunitaria-mvp/
+├── .github/
+│   └── workflows/
+│       └── ci.yml               # Pipeline de Integração Contínua (CI)
+├── app/
+│   ├── core/
+│   │   ├── config.py            # Variáveis de ambiente e segredos
+│   │   └── security.py          # Hashing bcrypt e tokens JWT
+│   ├── models/                  # Modelos relacionais SQLAlchemy (clientes, servicos, agendamentos)
+│   ├── schemas/                 # Esquemas de validação Pydantic
+│   ├── services/                # Regras de negócio (prevenção de conflito de horários)
+│   ├── api/                     # Rotas e controladores REST da FastAPI
+│   └── main.py                  # Ponto de entrada da aplicação
+├── tests/
+│   ├── test_services.py         # Testes unitários das regras de agendamento
+│   └── test_api.py              # Testes de integração dos endpoints REST
+├── requirements.txt             # Dependências estritas do projeto
+├── .gitignore                   # Arquivos ignorados (venv, .env, __pycache__)
+└── README.md                    # Documentação do projeto
