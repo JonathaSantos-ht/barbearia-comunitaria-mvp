@@ -6,7 +6,7 @@
 ![ODS 8](https://img.shields.io/badge/ODS-8%20Trabalho%20Decente-red)
 
 > **Projeto de Software — Experiência Prática III**  
-> Repositório público para implementação, versionamento e garantia de qualidade do MVP de agendamentos para o microempreendimento comunitário de barbearia do Sr. Carlos Alberto Moreira.
+> Repositório público para implementação, versionamento e garantia de qualidade do MVP de agendamentos para o microempreendimento comunitário de barbearia do Sr. Denilson Venancio.
 
 ---
 
