@@ -99,7 +99,7 @@ HTML_UI = """<!DOCTYPE html>
             <div class="flex items-center space-x-3">
                 <span class="text-2xl">✂️</span>
                 <div>
-                    <h1 class="text-lg font-bold tracking-tight leading-tight">Barbearia do Carlos</h1>
+                    <h1 class="text-lg font-bold tracking-tight leading-tight">Barbearia do Denilson</h1>
                     <p class="text-xs text-amber-400 font-medium">Comunidade & Tradição • ODS 8</p>
                 </div>
             </div>
