@@ -11,7 +11,7 @@
 ---
 
 ## 🎯 Contexto e ODS Vinculado
-- **Público e Parceiro Comunitário:** Barbearia de bairro gerida por Carlos Alberto Moreira. O negócio sofria com sobreposição de horários e perda de clientes causada pelo controle em cadernos de papel e mensagens desorganizadas de WhatsApp.
+- **Público e Parceiro Comunitário:** Barbearia de bairro gerida por Denilson Venancio. O negócio sofria com sobreposição de horários e perda de clientes causada pelo controle em cadernos de papel e mensagens desorganizadas de WhatsApp.
 - **Vínculo ODS:** **ODS 8 — Trabalho Decente e Crescimento Econômico** (Metas 8.2 e 8.3: produtividade, modernização tecnológica e formalização/eficiência de microempreendedores).
 - **Solução Desenvolvida:** Sistema web responsivo mobile-first com grade semafórica visual (verde/vermelho), marcação rápida em 3 toques e cancelamento com liberação instantânea de horários.
 
